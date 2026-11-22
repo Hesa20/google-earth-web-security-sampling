@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Geospatial Exports & Sensitive Local Data (Protect Data)
+*.kml
+*.kmz
+*.env
+*.log
+*.bak
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+Desktop.ini

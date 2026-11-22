@@ -1,0 +1,9 @@
+event_id;event_timestamp;user_email;source_ip;action
+101;30/10/2026 02:14;analyst_demo@workspace.local;203.0.113.45;LOGIN_SUCCESS
+102;30/10/2026 02:18;analyst_demo@workspace.local;203.0.113.45;CHANGE_SHARE_PERMISSION
+103;30/10/2026 02:21;analyst_demo@workspace.local;203.0.113.45;EXPORT_KML
+104;30/10/2026 02:21;analyst_demo@workspace.local;203.0.113.45;EXPORT_KML
+105;30/10/2026 02:21;analyst_demo@workspace.local;203.0.113.45;EXPORT_KML
+106;30/10/2026 02:21;analyst_demo@workspace.local;203.0.113.45;EXPORT_KML
+107;30/10/2026 02:21;analyst_demo@workspace.local;203.0.113.45;EXPORT_KML
+108;30/10/2026 09:15;normal_user@workspace.local;198.51.100.12;EXPORT_KML
